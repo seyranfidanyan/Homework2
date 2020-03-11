@@ -1,0 +1,7 @@
+.Logo {
+    height: 40px;
+}
+
+.Logo > a >img {
+    height: 50px;
+}

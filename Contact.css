@@ -1,0 +1,21 @@
+.contact {
+    display: inline;
+}
+
+.contactusimg {
+    display: inline-flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.contact > img {
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+}
+
+/* .contactusimg > a > img {
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+} */
